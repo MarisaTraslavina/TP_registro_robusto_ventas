@@ -42,8 +42,8 @@ pip install -r requirements.txt
 Con el entorno virtual activado, ejecutar:
 
 ```bash
-python registro_robusto_ventas.py o
-py registro_robusto_ventas.py
+python registrar_ventas.py o
+py registrar_ventas.py
 ```
 
 ## Situaciones inválidas contempladas
